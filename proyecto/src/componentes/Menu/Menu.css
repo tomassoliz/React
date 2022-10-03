@@ -1,0 +1,13 @@
+nav {
+    color: whitesmoke;
+    background-color: blue;
+    display:flex;
+    flex-direction:row;
+    gap: 3em;
+    /* justify-content: space-between; */
+}
+
+p{
+    margin-left: 5px;
+    cursor: pointer;
+}
